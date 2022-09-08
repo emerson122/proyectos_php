@@ -1,0 +1,270 @@
+[31-Jul-2022 06:43:38 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 06:43:38 Europe/Berlin] Errores::constructores->inicio de errores
+[31-Jul-2022 06:43:45 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 06:43:45 Europe/Berlin] Errores::constructores->inicio de errores
+[31-Jul-2022 07:00:46 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 07:00:46 Europe/Berlin] Errores::constructores->inicio de errores
+[31-Jul-2022 18:58:29 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 18:58:29 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 18:58:29 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 18:58:29 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 18:58:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(26): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 18:58:30 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 18:58:30 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 18:58:30 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 18:58:30 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 18:58:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(26): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 18:58:31 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 18:58:31 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 18:58:31 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 18:58:31 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 18:58:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(26): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 18:58:31 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 18:58:31 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 18:58:31 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 18:58:31 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 18:58:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(26): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 18:58:32 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 18:58:32 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 18:58:32 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 18:58:32 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 18:58:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(26): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 18:58:32 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 18:58:32 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 18:58:32 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 18:58:32 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 18:58:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(26): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 18:58:32 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 18:58:32 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 18:58:32 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 18:58:32 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 18:58:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(26): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:13:50 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:13:50 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:13:50 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:13:50 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:13:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:13:51 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:13:51 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:13:51 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:13:51 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:13:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:13:53 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:13:53 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:13:53 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:13:53 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:13:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:13:59 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:13:59 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:13:59 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:13:59 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:13:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:13:59 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:13:59 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:13:59 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:13:59 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:13:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:14:00 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:14:00 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:14:00 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:14:00 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:14:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:14:00 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:14:00 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:14:00 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:14:00 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:14:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:14:00 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:14:00 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:14:00 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:14:00 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:14:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:14:50 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:14:50 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:14:50 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:14:50 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:14:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:14:51 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:14:51 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:14:51 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:14:51 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:14:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:14:51 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:14:51 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:14:51 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:14:51 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:14:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:14:51 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:14:51 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:14:51 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:14:51 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:14:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:14:51 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:14:51 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:14:51 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:14:51 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:14:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:14:52 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:14:52 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:14:52 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:14:52 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:14:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:14:57 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:14:57 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:14:57 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:14:57 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:14:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[31-Jul-2022 19:15:16 Europe/Berlin] inicio de aplicacion web
+[31-Jul-2022 19:15:16 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[31-Jul-2022 19:15:16 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[31-Jul-2022 19:15:16 Europe/Berlin] Login::construct ->inicio de Login
+[31-Jul-2022 19:15:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
+[19-Aug-2022 06:34:15 Europe/Berlin] inicio de aplicacion web
+[19-Aug-2022 06:34:16 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\PHP\balance_general\libs\app.php on line 34
+[19-Aug-2022 06:34:16 Europe/Berlin] APP::CONSTRUCT-> NO HAY CONTROLADOR ESPECIFICADO
+[19-Aug-2022 06:34:16 Europe/Berlin] Login::construct ->inicio de Login
+[19-Aug-2022 06:34:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php:3
+Stack trace:
+#0 C:\xampp\htdocs\PHP\balance_general\libs\controller.php(15): require_once()
+#1 C:\xampp\htdocs\PHP\balance_general\libs\app.php(53): Controller->loadModel('login')
+#2 C:\xampp\htdocs\PHP\balance_general\index.php(29): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\PHP\balance_general\models\loginmodel.php on line 3
